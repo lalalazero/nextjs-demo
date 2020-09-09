@@ -8,11 +8,11 @@ export default function FirstPost() {
       <Layout>
         <Head>
           <title>Title First Post</title>
+          
         </Head>
+
         <h1>First Post</h1>
-        <Link href="/">
-          <a>back to home</a>
-        </Link>
+        <p>first experience with nextjs</p>
       </Layout>
     </div>
   );
